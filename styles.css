@@ -251,7 +251,7 @@ Black & Blue Card
 .black-blue-card-wrap .header-wrap .logo img {
   border-radius: 50%;
   width: 36px;
-  border: 2px solid hsl(264, 98%, 84%);
+  border: 2px solid hsl(264, 93%, 84%);
   margin-right: 16px;
 }
 
@@ -360,3 +360,5 @@ Media Query Sections
     padding: 120px;
   }
 }
+
+
